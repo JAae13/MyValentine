@@ -1,0 +1,47 @@
+nav{
+    background-color: pink;
+    color: white;
+    padding: 1rem 0rem 3rem;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    margin: auto;
+    padding: 2rem 0rem 2rem;
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 3rem;
+    margin: auto;
+    padding: 2rem 0rem 2rem;
+}
+
+ul li {
+    text-decoration: none;
+    display: inline;
+    padding: 2rem;
+}
+
+ul a {
+    text-decoration: none;
+    color: red;
+    padding: 1rem 2rem;
+    border: 0.1rem solid red;
+}
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+P {
+    font-size: 1.5rem;
+    padding: 2rem;
+    margin: 0;
+}
