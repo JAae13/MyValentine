@@ -1,12 +1,11 @@
 nav{
-    background-color: pink;
-    color: white;
+    background-color: #fc77b3;
     padding: 1rem 0rem 3rem;
     text-align: center;
 }
 
 h1 {
-    color: red;
+    color: white;
     text-align: center;
     margin: auto;
     padding: 2rem 0rem 2rem;
@@ -14,6 +13,7 @@ h1 {
 }
 
 h2 {
+    color: red;
     font-size: 3rem;
     margin: auto;
     padding: 2rem 0rem 2rem;
@@ -26,13 +26,13 @@ ul li {
 
 ul a {
     text-decoration: none;
-    color: red;
+    color: white;
     padding: 1rem 2rem;
-    border: 0.1rem solid red;
+    border: 0.1rem solid white;
 }
 
 body {
-    background-color: #f4f4f4;
+    background-color: #ffa8cf;
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
